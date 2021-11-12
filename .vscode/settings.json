@@ -1,2 +1,4 @@
 {
+    "editor.cursorSmoothCaretAnimation": true,
+    "files.autoSave": "onWindowChange"
 }
